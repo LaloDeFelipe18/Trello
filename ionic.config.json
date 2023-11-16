@@ -1,0 +1,7 @@
+{
+  "name": "TRELLO",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
